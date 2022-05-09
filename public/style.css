@@ -1,0 +1,39 @@
+table, td, th {
+    border: 1.5px solid black;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th {
+    background-color: slateblue;
+    color: white;
+}
+
+.colOne {
+    width: 5%;
+    text-align: center;
+}
+
+.colTwo{
+    width: 65%;
+}
+
+.colThree{
+    width: 25%;
+}
+
+.table{
+    text-align: center;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.indent {
+    padding-left: 20px;
+}
+
+/* .synopsis{
+    column-span: all;
+} */
