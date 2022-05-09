@@ -1,26 +1,35 @@
 table, td, th {
-    border: 1.5px solid lightgray;
+    border: 1.5px solid black;
     border-collapse: collapse;
     margin-left: auto;
     margin-right: auto;
 }
 
-/* .colOne {
-    width: 50px;
+th {
+    background-color: slateblue;
+    color: white;
 }
 
-.colTwo{
-    width: 150px;
-}
-
-.colThree{
-    width: 150px;
-} */
-
-.table{
+.colOne {
+    width: 5%;
     text-align: center;
 }
 
-.synopsis{
-    column-span: all;
+.colTwo{
+    width: 65%;
 }
+
+.colThree{
+    width: 25%;
+}
+
+.table{
+    text-align: center;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* .synopsis{
+    column-span: all;
+} */
