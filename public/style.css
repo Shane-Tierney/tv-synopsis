@@ -30,6 +30,10 @@ th {
     margin-right: auto;
 }
 
+.indent {
+    padding-left: 20px;
+}
+
 /* .synopsis{
     column-span: all;
 } */
